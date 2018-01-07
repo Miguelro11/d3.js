@@ -14,3 +14,4 @@ https://bl.ocks.org/d3byex<br>
 JS Fiddle (http://jsfiddle.net/qAHC2/)<br>
 JS Bin (http://jsbin.com/ugacud/1/edit)<br>
 https://github.com/climboid
+<h2>Paara bajar mapas tipo json</h2> https://libregis.carto.com/tables/ign_spanish_adm2_provinces/public <br>
